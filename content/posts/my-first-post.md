@@ -1,7 +1,6 @@
 ---
 title: "My First Post"
 date: 2023-08-30T19:25:58+08:00
-draft: false
 ---
 
 ## 介绍
