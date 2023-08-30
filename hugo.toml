@@ -1,0 +1,4 @@
+baseURL = 'http://verdure.com/'
+languageCode = 'zh-cn'
+title = '清晨咩咩'
+theme = 'ananke'
